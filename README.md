@@ -2,6 +2,11 @@
 
 Salifort Motors was losing 1 in 6 employees. This project finds out why — and predicts who's next.
 
+## Dashboard
+
+![Turnover Analysis](turnover_analysis.png)
+![Workload Analysis](workload_analysis.png)
+
 ---
 
 ## What I did
